@@ -61,3 +61,12 @@
     border-radius: 15px;
 
 }
+
+.img-p{
+  transform: rotate(-20deg);
+  position: absolute;
+  right: 0;
+  bottom: -20%;
+  height: 100%;
+  width: 40%;
+}
