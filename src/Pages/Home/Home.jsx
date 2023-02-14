@@ -2,6 +2,7 @@ import React from 'react';
 import Hero from '../../componets/Hero/Hero';
 import Products from '../../componets/Products/Products';
 import Slider from '../../componets/SLider/Slider';
+import Testimonials from '../../componets/Testimonials/Testimonials';
 import Virtual from '../../componets/Virtual/Virtual';
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
            <Slider />
            <Virtual />
            <Products />
+           <Testimonials />
         </div>
     );
 };
