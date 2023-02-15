@@ -10,6 +10,7 @@ import {
   LinkIcon,
 } from "@heroicons/react/outline";
 
+
 const Footer = () => {
   return (
     <div className={css.cFooterWrapper}>
