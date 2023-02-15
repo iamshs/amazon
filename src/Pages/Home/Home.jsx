@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../componets/Footer/Footer';
 import Hero from '../../componets/Hero/Hero';
 import Products from '../../componets/Products/Products';
 import Slider from '../../componets/SLider/Slider';
@@ -13,6 +14,7 @@ const Home = () => {
            <Virtual />
            <Products />
            <Testimonials />
+           <Footer />
         </div>
     );
 };
